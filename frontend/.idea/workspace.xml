@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca41c876-e758-4c18-8190-28dc2de7689a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/fitness-store/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-store/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-store/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-store/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-store/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-store/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-store/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-store/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-store/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-store/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-store/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-store/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-store/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-store/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-store/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-store/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-store/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-store/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-store/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-store/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-store/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-store/tsconfig.spec.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/fitness-store" />
+  </component>
+  <component name="ProjectId" id="1lHTwET7SlorpfKzfHUU2pudpcH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\Angular\projects\SE_Project\frontend\fitness-store\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Angular\projects\SE_Project\frontend\fitness-store\src\assets\images\icons" />
+      <recent name="D:\Angular\projects\SE_Project\frontend\fitness-store\src\assets\images\blog_images" />
+      <recent name="D:\Angular\projects\SE_Project\frontend\fitness-store\src\assets\images\products\health" />
+      <recent name="D:\Angular\projects\SE_Project\frontend\fitness-store\src\assets\images\products\weights" />
+      <recent name="D:\Angular\projects\SE_Project\frontend\fitness-store\src\assets\images\products\clothing" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca41c876-e758-4c18-8190-28dc2de7689a" name="Default Changelist" comment="" />
+      <created>1607253254081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607253254081</updated>
+      <workItem from="1607253255121" duration="6157000" />
+      <workItem from="1607324241595" duration="67000" />
+      <workItem from="1607324393801" duration="13040000" />
+      <workItem from="1607338687953" duration="3534000" />
+      <workItem from="1607348686745" duration="4257000" />
+      <workItem from="1607592458578" duration="4695000" />
+      <workItem from="1607601289187" duration="13443000" />
+      <workItem from="1607626903601" duration="3710000" />
+      <workItem from="1607671129671" duration="1961000" />
+      <workItem from="1607674986541" duration="5198000" />
+      <workItem from="1607787491614" duration="6213000" />
+      <workItem from="1607868984212" duration="2531000" />
+      <workItem from="1607871542161" duration="1000" />
+      <workItem from="1607941434595" duration="1984000" />
+      <workItem from="1608208067237" duration="2434000" />
+      <workItem from="1608281765196" duration="2302000" />
+      <workItem from="1608285306369" duration="1000" />
+      <workItem from="1608391978532" duration="3326000" />
+      <workItem from="1609316312458" duration="8272000" />
+      <workItem from="1609331648614" duration="10467000" />
+      <workItem from="1609400958300" duration="10263000" />
+      <workItem from="1609414888274" duration="4009000" />
+      <workItem from="1609426637123" duration="6057000" />
+      <workItem from="1609496770832" duration="1764000" />
+      <workItem from="1609514854093" duration="3057000" />
+      <workItem from="1609575229951" duration="14721000" />
+      <workItem from="1609622100345" duration="389000" />
+      <workItem from="1609622500905" duration="3471000" />
+      <workItem from="1609661656280" duration="19575000" />
+      <workItem from="1609687044194" duration="7309000" />
+      <workItem from="1609700093043" duration="6395000" />
+      <workItem from="1609743776171" duration="17923000" />
+      <workItem from="1609772523027" duration="8693000" />
+      <workItem from="1610093202128" duration="1366000" />
+      <workItem from="1610615496749" duration="4449000" />
+      <workItem from="1610627036241" duration="6986000" />
+      <workItem from="1610637668982" duration="769000" />
+      <workItem from="1610695892538" duration="1437000" />
+      <workItem from="1610697584760" duration="730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1609344380033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.65.1920.1040@0.0.1920.1040" timestamp="1609344380033" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1609348022016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.65.1920.1040@0.0.1920.1040" timestamp="1609348022016" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607349417985" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609760002504">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.65.1920.1040@0.0.1920.1040" timestamp="1609760002504" />
+    <state x="764" y="0" width="965" height="1027" key="dock-window-1" timestamp="1609759331618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="0" width="965" height="1027" key="dock-window-1/0.0.1920.1040/-1920.65.1920.1040@0.0.1920.1040" timestamp="1609759331618" />
+    <state x="1989" y="187" width="1493" height="735" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607336038191" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1610628724218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="305" key="run.anything.popup/0.0.1920.1040/-1920.65.1920.1040@-1920.65.1920.1040" timestamp="1609575719308" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.65.1920.1040@0.0.1920.1040" timestamp="1609602362770" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607612346681" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.65.1920.1040@0.0.1920.1040" timestamp="1610628724218" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609602331545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="290" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.65.1920.1040@-1920.65.1920.1040" timestamp="1609431309524" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.65.1920.1040@0.0.1920.1040" timestamp="1609602331545" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607339159363" />
+  </component>
+</project>
